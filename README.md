@@ -11,8 +11,8 @@ The game provides 2 difficulty level settings.
 
 ... | ...
 --- | ---
-![](https://user-images.githubusercontent.com/33935506/33792331-08cb733e-dca5-11e7-9c6d-84002eba6b6b.PNG)
-![](https://user-images.githubusercontent.com/33935506/33792333-0934eb70-dca5-11e7-9a1c-a36133646fb1.PNG)
+![](https://github.com/inochoi/React-App-Color-Game/blob/master/screenshot.png)
+![](https://github.com/inochoi/React-App-Color-Game/blob/master/screenshot2.png)
 
 ---
 
