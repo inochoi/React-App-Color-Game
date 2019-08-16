@@ -1,0 +1,65 @@
+body {
+  text-align: center;
+  font-family: "Montserrat", "Avenir";
+  background-color: #292727;
+  transition: background 0.5s;
+  -webkit-transition: background 0.5s;
+  -moz-transition: background 0.5s;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.box{
+  display: flex;
+  justify-content: space-between;
+}
+
+.square {
+  width: 30%;
+  background-color: peru;
+  padding-bottom: 30%;
+  float: left;
+  margin: 1.66%;
+  border-radius: 15%;
+  transition: background 0.5s;
+  -webkit-transition: background 0.5s;
+  -moz-transition: background 0.5s;
+}
+
+
+.squareH {
+  width: 30%;
+  background-color: peru;
+  padding-bottom: 13%;
+  margin: 1.66%;
+  border-radius: 15%;
+  transition: background 0.5s;
+  -webkit-transition: background 0.5s;
+  -moz-transition: background 0.5s;
+}
+
+
+.card{
+  background-color: #292727;
+  border-radius: 28px;
+  padding: 0.3%;
+  color: white;
+  border: none;
+}
+
+
+button{
+  margin: 1.66%;
+}
+
+.top{
+  width: 150px;
+}
+
+#title{
+  color: white;
+  
+}
