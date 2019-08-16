@@ -1,4 +1,4 @@
-import React, { useState, Fragment } from "react";
+import React, { useState } from "react";
 import "./App.css";
 import { EASY, HARD } from "./constants";
 import Easy from "./components/Easy";
@@ -9,7 +9,6 @@ function App() {
 
   // calls selected component
   const renderPath = path => {
-    console.log(path);
     switch (path) {
       case EASY:
         return <Easy />;

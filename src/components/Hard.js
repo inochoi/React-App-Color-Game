@@ -56,7 +56,6 @@ const Easy = props => {
       win(e.target.style.backgroundColor);
       return playingStatus(false);
     } else {
-      console.log("try again");
       e.target.style.backgroundColor = "#292727";
     }
     // if color doesn't match, change color of the square clicked to background color to simulate disappearance
@@ -166,11 +165,6 @@ const Easy = props => {
                   />
                 </div>
               </div>
-              {/* <div className='card'>
-              <div>Color Array: {colorArray}</div>
-              <div>Picked color: {pickedColor}</div>
-              <div>Clicked color: {clickedColor}</div>
-            </div> */}
             </div>
           </Fragment>
         ) : (
