@@ -7,6 +7,8 @@ The game provides 2 difficulty level settings.
 * Easy - 6 color sqaures
 * Hard - 12 color squares
 
+Go **[here](https://react-app-color-game.herokuapp.com)** for live demo.
+
 **Screenshots:**
 
 ![](https://github.com/inochoi/React-App-Color-Game/blob/master/screenshot.png)
